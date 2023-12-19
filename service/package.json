@@ -15,7 +15,7 @@
     "fs": "0.0.1-security",
     "koa": "2.5.1",
     "koa-bodyparser": "^4.2.1",
-    "koa-router": "7.4.0",
+    "koa-router": "11.0.2",
     "moment": "^2.23.0",
     "sqlite3": "^4.0.4"
   },
